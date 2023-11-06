@@ -9,6 +9,7 @@ def main():
     a += 3
     b -= 2
     a *= 4
+    b -= 2
 
     result = a + b
     print(f"Результат: {result}")
